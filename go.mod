@@ -1,4 +1,4 @@
-module pagerduty-slack-ic-sync
+module github.com/RiRa12621/pagerduty-slack-ic-sync
 
 go 1.18
 
