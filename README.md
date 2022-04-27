@@ -1,6 +1,9 @@
 # pagerduty-slack-ic-sync
 Sync a given slack handle to update to who is oncall
 
+[![Docker Repository on Quay](https://quay.io/repository/rira12621/pagerduty-slack-ic-sync/status "Docker Repository on Quay")](https://quay.io/repository/rira12621/pagerduty-slack-ic-sync)
+
+
 ## Installation
 
 You can choose from the following three options:
