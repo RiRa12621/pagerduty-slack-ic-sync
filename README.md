@@ -18,7 +18,7 @@ go install github.com/RiRa12621/pagerduty-slack-ic-sync@latest
 ```
 
 If you have you $GOPATH added to your $PATH, you will be able to use it 
-right away. Otherwise you still need to move it to your path.
+right away. Otherwise, you still need to move it to your path.
 
 ### Container
 
